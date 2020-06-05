@@ -1,0 +1,6 @@
+projectKey=com.rakuten.dsaid.sonar:sonar-java-demo
+serverUrl=http://stg-sonar102.dsd.dev.rsc.local:9000
+serverVersion=7.9.0.26994
+dashboardUrl=http://stg-sonar102.dsd.dev.rsc.local:9000/dashboard?id=com.rakuten.dsaid.sonar%3Asonar-java-demo
+ceTaskId=AXJe3Rnr85tDKGxK0Wp0
+ceTaskUrl=http://stg-sonar102.dsd.dev.rsc.local:9000/api/ce/task?id=AXJe3Rnr85tDKGxK0Wp0
